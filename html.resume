@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RESUME</title>
+    </head>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: rgba(111, 105, 228, 0.3);;
+      }
+      h1{
+        font-size: 25px;
+      }
+      img { 
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto 30px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 255, 0.3);
+    }
+    p{
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 17px;
+    }
+    </style>
+    <body>
+        <div>
+            <div class="right">
+                <div class="image_holder"> 
+                  <img src="Paul.jpg" alt="pictures">        
+                </div>
+        <center><h1>Navarro, Paullyn M.</h1></center>
+        <center><p1>pullyn.navarro@lspu.edu.ph</p1></center>
+        <hr>
+        <b><p class="head">Personal Information</p></b>
+        <ul>
+            <li><b>Birth of Date:</b> August 2, 2003</li>
+            <li><b>Birth of place:</b> Paete Laguna</li>
+            <li><b>Address:</b> J P Rizal St. Brgy 7 Bagumbayan, Paete, Laguna</li>
+            <li><b>Age:</b> 19 years old</li>
+            <li><b>Sex:</b> Male</li>
+            <li><b>Civil Status:</b> Single</li>
+            <li><b>Height:</b> 5'5</li>
+            <li><b>Weight:</b> 58 kgs</li>
+            <li><b>Nationality:</b> Filipino</li>
+            <li><b>Religion:</b> Iglesia Filipina Independiente</li>  
+            </ul>
+            <b><p class="head">Interests</p></b>
+          <ul>
+            <li>Volleyball</li>
+            <li>Dancing</li>
+            <li>Pictorial</li>
+            <li>Singing</li>
+            <li>Travel</li>
+          </ul>
+          <b><p class="head">Skills</p></b>
+          <ul>
+            <li>Working well in a team</li>
+            <li>Good communication</li>
+            <li>Self-motivation</li>
+            <li>Determination and persistence</li>
+			<li>MS Office</li>
+            <li>Social Media</li>
+            <li>Video Creation</li>
+            <li>Graphical</li>
+          </ul>
+          <b><p class="head">Education</p></b>
+          <ul>
+              <li>Primary School: Paete Elementary School (2015)</li>
+              <li>High School: Liceo De Pakil (2019))</li>
+			  <li>Senior High School: Liceo De Pakil (2021))</li>
+            <li>Laguna State Polytechnic University</li>
+          </ul>
+          <b><p class="head">Work Experience</p></b>
+          <ul>
+            <li>Online Seller</li>
+          </ul>
+    </body>
+</html>
